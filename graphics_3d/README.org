@@ -9,6 +9,10 @@
 - Robinson, Alana
 
 * FILES: 
+- async
+- async_resource (in addition to the differentiated resources provided within the slides)
+- homework
+- homework_resource
 
 ** If you are presenting this unit:
 
